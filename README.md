@@ -12,7 +12,7 @@
 
 ### 💫 About Me
 
-I am a passionate **Software Developer** currently completing my 8th semester of Software Engineering. I combine robust academic knowledge with practical experience to build clean, high-performance applications.
+I am a passionate **Software Developer** currently completing my 8th semester of Software Engineering[cite: 1]. I combine robust academic knowledge with practical experience to build clean, high-performance applications[cite: 1].
 
 - 🛠️ **Current Focus:** Engineering secure web ecosystems for service commercialization and digital creator monetization.
 - 🤖 **Tech Interests:** Backend architecture with **NestJS**, database modeling (**PostgreSQL** / **SQL Server**), and workflow optimization via AI prompt engineering.
@@ -54,8 +54,10 @@ I am a passionate **Software Developer** currently completing my 8th semester of
 ### 📊 Real-time Dev Metrics
 
 <p align="center">
+  <!-- Tarjeta de estadísticas generales -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JuanMaTech2205&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JuanMaTech2205&layout=compact&theme=tokyonight&langs_count=7" alt="Top Languages" width="47%" />
+  <!-- Tarjeta de lenguajes filtrada para ocultar PHP, HTML y CSS -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JuanMaTech2205&layout=compact&theme=tokyonight&langs_count=7&hide=php,html,css" alt="Top Languages" width="47%" />
 </p>
 
 <p align="center">
