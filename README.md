@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:D97757&height=120&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2EA043&height=120&section=header" width="100%" />
 
   <!-- Animated Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=D97757&center=true&vCenter=true&width=700&letterSpacing=1px&lines=Hi+there!+I'm+Juan+Manuel;Fullstack+/+Frontend+Developer;Building+Scalable+Web+Apps;AI-Driven+Workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2EA043&center=true&vCenter=true&width=700&letterSpacing=1px&lines=Hi+there!+I'm+Juan+Manuel;Fullstack+/+Frontend+Developer;Building+Scalable+Web+Apps;AI-Driven+Workflows" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://linkedin.com/in/juan-manuel-castaño-957205275/" target="_blank"><img src="https://raw.githubusercontent.com/JuanMaTech2205/JuanMaTech2205/main/assets/linkedin.svg" height="40" alt="LinkedIn" /></a>
@@ -55,18 +55,18 @@ I am a passionate **Software Developer** currently completing my 8th semester of
 
 <p align="center">
   <!-- Instancia propia desplegada en Vercel con PAT_1 configurado (cuenta repos privados) -->
-  <img src="https://github-readme-stats-puce-three-10.vercel.app/api?username=JuanMaTech2205&show_icons=true&include_all_commits=true&title_color=D97757&icon_color=D97757&text_color=c9d1d9&bg_color=45,1a1b27,20212e&border_color=D97757&ring_color=D97757" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-puce-three-10.vercel.app/api?username=JuanMaTech2205&show_icons=true&include_all_commits=true&title_color=2EA043&icon_color=2EA043&text_color=c9d1d9&bg_color=45,1a1b27,20212e&border_color=2EA043&ring_color=2EA043" alt="GitHub Stats" width="48%" />
   <!-- Tarjeta de lenguajes filtrada para ocultar PHP, HTML y CSS -->
-  <img src="https://github-readme-stats-puce-three-10.vercel.app/api/top-langs/?username=JuanMaTech2205&layout=compact&langs_count=7&hide=php,html,css&title_color=D97757&text_color=c9d1d9&bg_color=45,1a1b27,20212e&border_color=D97757" alt="Top Languages" width="47%" />
+  <img src="https://github-readme-stats-puce-three-10.vercel.app/api/top-langs/?username=JuanMaTech2205&layout=compact&langs_count=7&hide=php,html,css&title_color=2EA043&text_color=c9d1d9&bg_color=45,1a1b27,20212e&border_color=2EA043" alt="Top Languages" width="47%" />
 </p>
 
 <p align="center">
   <!-- Instancia propia desplegada en Vercel (rama vercel + TOKEN configurado) -->
-  <img src="https://github-readme-streak-stats-zeta-tawny.vercel.app/?user=JuanMaTech2205&background=1a1b27&border=D97757&stroke=D97757&ring=D97757&fire=D97757&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=D97757&sideLabels=c9d1d9&dates=808080" alt="GitHub Streak" width="96%" />
+  <img src="https://github-readme-streak-stats-zeta-tawny.vercel.app/?user=JuanMaTech2205&background=1a1b27&border=2EA043&stroke=2EA043&ring=2EA043&fire=2EA043&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=2EA043&sideLabels=c9d1d9&dates=808080" alt="GitHub Streak" width="96%" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:1a1b27&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,100:1a1b27&height=100&section=footer" width="100%" />
 </div>
