@@ -6,7 +6,7 @@
 
   <p align="center">
     <a href="https://linkedin.com/in/juan-manuel-castaño-957205275/" target="_blank"><img src="https://raw.githubusercontent.com/JuanMaTech2205/JuanMaTech2205/main/assets/linkedin.svg" height="40" alt="LinkedIn" /></a>
-    <a href="mailto:juanmanuelcastano1lb@gmail.com"><img src="https://raw.githubusercontent.com/JuanMaTech2205/JuanMaTech2205/main/assets/email.svg" height="40" alt="Email" /></a>
+    <a href="mailto:juanagudel2000@gmail.com"><img src="https://raw.githubusercontent.com/JuanMaTech2205/JuanMaTech2205/main/assets/email.svg" height="40" alt="Email" /></a>
   </p>
 </div>
 
