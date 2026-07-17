@@ -61,7 +61,8 @@ I am a passionate **Software Developer** currently completing my 8th semester of
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JuanMaTech2205&background=1a1b27&border=D97757&stroke=D97757&ring=D97757&fire=D97757&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=D97757&sideLabels=c9d1d9&dates=808080" alt="GitHub Streak" width="96%" />
+  <!-- Instancia propia desplegada en Vercel (rama vercel + TOKEN configurado) -->
+  <img src="https://github-readme-streak-stats-zeta-tawny.vercel.app/?user=JuanMaTech2205&background=1a1b27&border=D97757&stroke=D97757&ring=D97757&fire=D97757&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=D97757&sideLabels=c9d1d9&dates=808080" alt="GitHub Streak" width="96%" />
 </p>
 
 ---
