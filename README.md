@@ -45,9 +45,7 @@ I am a passionate **Software Developer** currently completing my 8th semester of
 <br />
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools Skills" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://raw.githubusercontent.com/JuanMaTech2205/JuanMaTech2205/main/assets/claude.svg" width="48" height="48" alt="Claude" />
 </p>
 </details>
 
@@ -56,10 +54,10 @@ I am a passionate **Software Developer** currently completing my 8th semester of
 ### 📊 Real-time Dev Metrics
 
 <p align="center">
-  <!-- Tarjeta de estadísticas generales (requiere PAT_1 configurado en tu Vercel para contar repos privados) -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JuanMaTech2205&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <!-- Instancia propia desplegada en Vercel con PAT_1 configurado (cuenta repos privados) -->
+  <img src="https://github-readme-stats-puce-three-10.vercel.app/api?username=JuanMaTech2205&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
   <!-- Tarjeta de lenguajes filtrada para ocultar PHP, HTML y CSS -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JuanMaTech2205&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&hide=php,html,css" alt="Top Languages" width="47%" />
+  <img src="https://github-readme-stats-puce-three-10.vercel.app/api/top-langs/?username=JuanMaTech2205&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&hide=php,html,css" alt="Top Languages" width="47%" />
 </p>
 
 <p align="center">
