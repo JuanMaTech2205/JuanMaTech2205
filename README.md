@@ -1,44 +1,67 @@
-# Hi there! I'm Juan Manuel Castaño 👋
+<div align="center">
+  <!-- Banner animado con un typing effect de tu rol -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Juan+Manuel;Fullstack+/+Frontend+Developer;Building+Scalable+Web+Apps;AI-Driven+Workflows" alt="Typing SVG" />
 
-I am a passionate Software Developer focused on building efficient, scalable, and modern web applications. Currently in my 8th semester of Software Engineering, I blend my academic foundation with real-world experience to deliver clean, production-ready solutions.
+  <p align="center">
+    <a href="https://linkedin.com/in/juan-manuel-castaño-957205275/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:juanmanuelcastano1lb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
-- 🛠️ **Currently working on:** Web platforms for service commercialization and creator content monetization.
-- 🤖 **Current interests:** Backend architecture with NestJS, AI-driven development workflows, and relational database management (PostgreSQL/SQL Server).
+---
+
+### 💫 About Me
+
+I am a passionate **Software Developer** currently completing my 8th semester of Software Engineering. I combine robust academic knowledge with practical experience to build clean, high-performance applications.
+
+- 🛠️ **Current Focus:** Engineering secure web ecosystems for service commercialization and digital creator monetization.
+- 🤖 **Tech Interests:** Backend architecture with **NestJS**, database modeling (**PostgreSQL** / **SQL Server**), and workflow optimization via AI prompt engineering.
 - 📍 **Location:** Itagüí, Antioquia, Colombia.
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 Technical Ecosystem
 
-**Frontend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<details open>
+<summary><b>Frontend & Layouts</b></summary>
+<br />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,remix,ts,js,html,css,tailwind" alt="Frontend Skills" />
+</p>
+</details>
 
-**Backend & Databases**
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<details open>
+<summary><b>Backend & Infrastructure</b></summary>
+<br />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres" alt="Backend Skills" />
+</p>
+</details>
 
-**Tools & Methodologies**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-3366CC?style=for-the-badge&logo=scrum&logoColor=white)
+<details open>
+<summary><b>Tools, Workflow & AI</b></summary>
+<br />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools Skills" />
+</p>
+</details>
 
 ---
 
-### 📊 My GitHub Stats
-
-Here is a quick overview of my recent activity and language breakdown:
+### 📊 Real-time Dev Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanMaTech2205&show_icons=true&theme=tokyonight&count_private=true" alt="Juan Manuel's Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMaTech2205&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanMaTech2205&show_icons=true&theme=tokyonight&count_private=true&edge_flat=false" alt="Juan Manuel's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMaTech2205&layout=compact&theme=tokyonight&langs_count=7" alt="Top Languages" width="47%" />
+</p>
+
+<p align="center">
+  <!-- Gráfica de actividad animada con líneas de pulso -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanMaTech2205&theme=tokyonight" alt="GitHub Streak" width="96%" />
 </p>
 
 ---
 
-### 🤝 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/juan-manuel-casta%C3%B1o-957205275/)
-- Email: juanmanuelcastano1lb@gmail.com
+<div align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&height=100&section=footer&text=" width="100%" />
+</div>
