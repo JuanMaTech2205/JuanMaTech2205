@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:D97757&height=120&section=header" width="100%" />
 
   <!-- Animated Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Juan+Manuel;Fullstack+/+Frontend+Developer;Building+Scalable+Web+Apps;AI-Driven+Workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=D97757&center=true&vCenter=true&width=700&letterSpacing=1px&lines=Hi+there!+I'm+Juan+Manuel;Fullstack+/+Frontend+Developer;Building+Scalable+Web+Apps;AI-Driven+Workflows" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://linkedin.com/in/juan-manuel-castaño-957205275/" target="_blank"><img src="https://raw.githubusercontent.com/JuanMaTech2205/JuanMaTech2205/main/assets/linkedin.svg" height="40" alt="LinkedIn" /></a>
